@@ -29,7 +29,7 @@ A simple and interactive calculator built using **HTML, CSS, and JavaScript**.
 
 ## Preview
 
-You can check out the live demo [here](#) (add a hosted link if available).
+You can check out the live demo [here](#https://2025calculator.vercel.app/) (add a hosted link if available).
 
 ## Screenshot
 
