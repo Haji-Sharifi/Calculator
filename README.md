@@ -7,7 +7,6 @@ A simple and interactive calculator built using **HTML, CSS, and JavaScript**.
 - Perform basic arithmetic operations: Addition, Subtraction, Multiplication, and Division.
 - User-friendly and responsive design.
 - Real-time display updates.
-- Keyboard input support (if implemented).
 
 ## Technologies Used
 
