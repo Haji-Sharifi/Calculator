@@ -19,7 +19,7 @@ A simple and interactive calculator built using **HTML, CSS, and JavaScript**.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/calculator.git
+   git clone https://github.com/Haji-Sharifi/Calculator.git
    ```
 2. Navigate to the project folder:
    ```sh
