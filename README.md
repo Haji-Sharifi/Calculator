@@ -33,7 +33,7 @@ You can check out the live demo [here](https://2025calculator.vercel.app/)
 
 ## Screenshot
 
-(Add a screenshot of the calculator interface here.)
+![alt text](image.png)
 
 ## Future Enhancements
 
